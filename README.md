@@ -23,7 +23,9 @@
 
 | Dashboard | Course Categories | All Courses |
 |----------|-------------------|-------------|
-| ![Dashboard](./assets/dashboard.png) | ![Categories](./assets/categories.png) | ![All Courses](./assets/courses.png) |
+| ![Dashboard](![Screenshot 2025-04-25 003822](https://github.com/user-attachments/assets/10a16c49-20df-4117-89ca-9589790b1a7e)
+) | ![Categories](![Screenshot 2025-04-25 003852](https://github.com/user-attachments/assets/fa30f5e0-bcfa-4472-b44e-1f1504164790)
+) | ![All Courses](./assets/courses.png) |
 
 | Course Detail | Course Content | Video Player |
 |---------------|----------------|--------------|
@@ -32,6 +34,7 @@
 | Profile Page | Ask Me Anything |
 |-------------|------------------|
 | ![Profile](./assets/profile.png) | ![Chatbot](./assets/chatbot.png) |
+
 
 ---
 
