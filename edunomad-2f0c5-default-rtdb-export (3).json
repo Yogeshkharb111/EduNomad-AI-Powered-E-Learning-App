@@ -1,0 +1,240 @@
+{
+  "enrollments": {
+    "userId": {
+      "Android Development": {
+        "duration": "6 weeks",
+        "imageUrl": "https://yourimagehost.com/android.png",
+        "instructor": "Alex Johnson",
+        "level": "Beginner",
+        "syllabus": {
+          "topic1": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Getting Started with Android Studio",
+            "videoUrl": "..."
+          },
+          "topic2": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "XML Layouts and UI Design",
+            "videoUrl": "..."
+          },
+          "topic3": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Kotlin Basics for Android",
+            "videoUrl": "..."
+          },
+          "topic4": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "RecyclerView and Adapters",
+            "videoUrl": "..."
+          },
+          "topic5": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Firebase Integration",
+            "videoUrl": "..."
+          }
+        },
+        "title": "Android Development"
+      },
+      "Cyber Security": {
+        "duration": "5 weeks",
+        "imageUrl": "https://yourimagehost.com/cybersecurity.png",
+        "instructor": "Sara Khan",
+        "level": "Intermediate",
+        "syllabus": {
+          "topic1": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Introduction to Cyber Security",
+            "videoUrl": "..."
+          },
+          "topic2": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Types of Cyber Attacks",
+            "videoUrl": "..."
+          },
+          "topic3": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Network Security Basics",
+            "videoUrl": "..."
+          },
+          "topic4": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Cryptography and Encryption",
+            "videoUrl": "..."
+          },
+          "topic5": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Best Practices for Online Safety",
+            "videoUrl": "..."
+          }
+        },
+        "title": "Cyber Security"
+      },
+      "Data Science": {
+        "duration": "12 weeks",
+        "imageUrl": "https://yourimagehost.com/datascience.png",
+        "instructor": "Jane Smith",
+        "level": "Intermediate",
+        "syllabus": {
+          "topic1": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Introduction to Data Science",
+            "videoUrl": "..."
+          },
+          "topic2": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Data Wrangling with Pandas",
+            "videoUrl": "..."
+          },
+          "topic3": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Data Visualization with Matplotlib",
+            "videoUrl": "..."
+          },
+          "topic4": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Exploratory Data Analysis",
+            "videoUrl": "..."
+          },
+          "topic5": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Introduction to Machine Learning",
+            "videoUrl": "..."
+          }
+        },
+        "title": "Data Science"
+      },
+      "Machine Learning": {
+        "duration": "8 weeks",
+        "imageUrl": "https://yourimagehost.com/ml.png",
+        "instructor": "Michael Lee",
+        "level": "Intermediate",
+        "syllabus": {
+          "topic1": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "What is Machine Learning?",
+            "videoUrl": "..."
+          },
+          "topic2": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Supervised vs Unsupervised Learning",
+            "videoUrl": "..."
+          },
+          "topic3": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Linear Regression",
+            "videoUrl": "..."
+          },
+          "topic4": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Classification Algorithms",
+            "videoUrl": "..."
+          },
+          "topic5": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Model Evaluation and Metrics",
+            "videoUrl": "..."
+          }
+        },
+        "title": "Machine Learning"
+      },
+      "Python Basics": {
+        "duration": "6 weeks",
+        "imageUrl": "https://yourimagehost.com/python.png",
+        "instructor": "John Doe",
+        "level": "Beginner",
+        "syllabus": {
+          "topic1": {
+            "isCompleted": false,
+            "pdfUrl": "https://drive.google.com/uc?export=download&id=1aQqrpEgcblIUImyjzXRphiZV-D1A9As8",
+            "title": "Introduction to Python",
+            "videoUrl": "https://drive.google.com/uc?export=download&id=14BVSoSM-pRV2LGIlMLgk6IBRsUmhqG8e"
+          },
+          "topic2": {
+            "isCompleted": false,
+            "pdfUrl": "https://drive.google.com/file/d/19FfvdA8B7dps6pdhCVdycFwbONboHQA3/view?usp=drive_link",
+            "title": "Variables and Data Types",
+            "videoUrl": "https://drive.google.com/uc?export=download&id=1vT3UjtYrKkLfOKyVTRqJLO19zetuPQs6"
+          },
+          "topic3": {
+            "isCompleted": false,
+            "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing",
+            "title": "Control Structures (if-else, loops)",
+            "videoUrl": "https://drive.google.com/uc?export=download&id=1o5AKDqtcbmaxRoOEsmZ5TrCeFzGnHFzr"
+          },
+          "topic4": {
+            "isCompleted": false,
+            "pdfUrl": "https://drive.google.com/file/d/1j2k3l4m5n6o7p8q9r0s/view?usp=sharing",
+            "title": "Functions in Python",
+            "videoUrl": "https://youtu.be/NSbOtYzIQI0?si=kM8z9-VWxn9zKLzD"
+          },
+          "topic5": {
+            "isCompleted": false,
+            "pdfUrl": "https://drive.google.com/file/d/1z2x3c4v5b6n7m8k9l0o/view?usp=sharing",
+            "title": "Lists and Tuples",
+            "videoUrl": "https://youtu.be/W8KRzm-HUcc?si=h9z_3pV4Er5jZg9S"
+          }
+        },
+        "title": "Python Basics"
+      },
+      "Web Development": {
+        "duration": "8 weeks",
+        "imageUrl": "https://yourimagehost.com/webdev.png",
+        "instructor": "Emily Brown",
+        "level": "Beginner",
+        "syllabus": {
+          "topic1": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "HTML Basics",
+            "videoUrl": "..."
+          },
+          "topic2": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "CSS Styling",
+            "videoUrl": "..."
+          },
+          "topic3": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "JavaScript Essentials",
+            "videoUrl": "..."
+          },
+          "topic4": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "Responsive Design with Flexbox/Grid",
+            "videoUrl": "..."
+          },
+          "topic5": {
+            "isCompleted": false,
+            "pdfUrl": "...",
+            "title": "ReactJS Basics",
+            "videoUrl": "..."
+          }
+        },
+        "title": "Web Development"
+      }
+    }
+  }
+}
