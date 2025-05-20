@@ -24,14 +24,13 @@
 
 Here's a glimpse of the app’s UI across key screens:
 
-<details>
-  <summary><strong>🔐 Auth Screens</strong></summary>
+
 
 | Login | Sign Up |
 |-------|---------|
 | ![Login](https://github.com/user-attachments/assets/f10a9eb5-b567-45ca-9e62-15d853876bc9) | ![Signup](https://github.com/user-attachments/assets/17c7d841-2961-4ce1-bac2-7a95d5b086a2) |
 
-</details>
+
 
 <details>
   <summary><strong>📊 Dashboard & Course Navigation</strong></summary>
