@@ -32,14 +32,11 @@ Here's a glimpse of the app’s UI across key screens:
 
 
 
-<details>
-  <summary><strong>📊 Dashboard & Course Navigation</strong></summary>
+
 
 | Dashboard | Categories | All Courses |
 |-----------|------------|-------------|
 | ![Dashboard](https://github.com/user-attachments/assets/10a16c49-20df-4117-89ca-9589790b1a7e) | ![Categories](https://github.com/user-attachments/assets/fa30f5e0-bcfa-4472-b44e-1f1504164790) | ![All Courses](https://github.com/user-attachments/assets/476422d2-73a2-4763-9f77-9c1837c99afd) |
-
-</details>
 
 <details>
   <summary><strong>📚 Course Experience</strong></summary>
